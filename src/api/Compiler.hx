@@ -20,10 +20,9 @@ typedef HTMLConf =
 }
 
 class Compiler {
-
 	var tmpDir : String;
 	var mainFile : String;
-	public static var haxePath = "haxe";
+	public static var haxePath = "C:/HaxeToolkit/haxe/haxe";
 
 	public function new(){}
 
